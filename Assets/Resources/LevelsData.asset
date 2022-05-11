@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0304b1ab8a60c86479b92db549f3e6a2, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  levelSettingsList:
+  - _levelName: Level one
+    _levelIdentyfire: 1
+    _winScore: 50
+    _backgroundPrefab: {fileID: 894863732483131133, guid: cd635c7bd39e87f41b63472bce1d2130,
+      type: 3}
+    _ballSprite: {fileID: -6340347355332045228, guid: 50fd7ef175a9bfd42a0f148699555d1a,
+      type: 3}
+    _startPower: 250
+    _boostPercent: 5
+    _hitEffect: {fileID: 5015370584564608877, guid: d51d038c6ef573048a62c011020f0c4f,
+      type: 3}
+    _enemyPrefab: {fileID: 4269929954294112786, guid: 9c0381c303608264a8165e9a41121595,
+      type: 3}
+    _speed: 2.5
+    _reactionSpeed: 0.75
+  - _levelName: Level two
+    _levelIdentyfire: 2
+    _winScore: 50
+    _backgroundPrefab: {fileID: 894863732483131133, guid: cd635c7bd39e87f41b63472bce1d2130,
+      type: 3}
+    _ballSprite: {fileID: 8709651028341642897, guid: 50fd7ef175a9bfd42a0f148699555d1a,
+      type: 3}
+    _startPower: 250
+    _boostPercent: 5
+    _hitEffect: {fileID: 5015370584564608877, guid: d51d038c6ef573048a62c011020f0c4f,
+      type: 3}
+    _enemyPrefab: {fileID: 4269929954294112786, guid: b8132b12e5d5d4b40ac88571312877a0,
+      type: 3}
+    _speed: 2.5
+    _reactionSpeed: 0.75
+  - _levelName: Level Three
+    _levelIdentyfire: 3
+    _winScore: 50
+    _backgroundPrefab: {fileID: 894863732483131133, guid: cd635c7bd39e87f41b63472bce1d2130,
+      type: 3}
+    _ballSprite: {fileID: 3191468420068207398, guid: 50fd7ef175a9bfd42a0f148699555d1a,
+      type: 3}
+    _startPower: 250
+    _boostPercent: 10
+    _hitEffect: {fileID: 5015370584564608877, guid: d51d038c6ef573048a62c011020f0c4f,
+      type: 3}
+    _enemyPrefab: {fileID: 4269929954294112786, guid: d3ba9d3ceef203b45a1eb0a12bc75b9a,
+      type: 3}
+    _speed: 3
+    _reactionSpeed: 0.7
+  - _levelName: Level Four
+    _levelIdentyfire: 4
+    _winScore: 50
+    _backgroundPrefab: {fileID: 894863732483131133, guid: cd635c7bd39e87f41b63472bce1d2130,
+      type: 3}
+    _ballSprite: {fileID: 7939184496961097264, guid: 50fd7ef175a9bfd42a0f148699555d1a,
+      type: 3}
+    _startPower: 250
+    _boostPercent: 10
+    _hitEffect: {fileID: 5015370584564608877, guid: d51d038c6ef573048a62c011020f0c4f,
+      type: 3}
+    _enemyPrefab: {fileID: 4269929954294112786, guid: 1c60236ad903592408258bbcd805a76f,
+      type: 3}
+    _speed: 3
+    _reactionSpeed: 0.65
+  - _levelName: Level Five (Boss)
+    _levelIdentyfire: 5
+    _winScore: 50
+    _backgroundPrefab: {fileID: 894863732483131133, guid: cd635c7bd39e87f41b63472bce1d2130,
+      type: 3}
+    _ballSprite: {fileID: 1669993477798784191, guid: 50fd7ef175a9bfd42a0f148699555d1a,
+      type: 3}
+    _startPower: 250
+    _boostPercent: 10
+    _hitEffect: {fileID: 5015370584564608877, guid: d51d038c6ef573048a62c011020f0c4f,
+      type: 3}
+    _enemyPrefab: {fileID: 4269929954294112786, guid: 6c1b365844a6e2140b21ebbbb88342f6,
+      type: 3}
+    _speed: 3.5
+    _reactionSpeed: 0.6

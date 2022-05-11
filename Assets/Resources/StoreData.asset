@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34935d5ac7501b6408584451c4e82da9, type: 3}
+  m_Name: StoreData
+  m_EditorClassIdentifier: 
+  StoreModel:
+    ProductCardDataList:
+    - isBuy: 0
+      _platformName: Skull
+      _platformSpeed: 2.5
+      _platform: {fileID: 4269929954294112786, guid: d58665d2418a01b44949a7cf2f8b6b63,
+        type: 3}
+      _price: 300
+    - isBuy: 0
+      _platformName: Snake
+      _platformSpeed: 3.5
+      _platform: {fileID: 4269929954294112786, guid: b03c9c8846ae8e74b9d52736c9c45b7f,
+        type: 3}
+      _price: 450
+    - isBuy: 0
+      _platformName: Spider
+      _platformSpeed: 4.5
+      _platform: {fileID: 4269929954294112786, guid: 2159b357865b22549be733cdb1cc945f,
+        type: 3}
+      _price: 600
+    - isBuy: 0
+      _platformName: Demon
+      _platformSpeed: 6
+      _platform: {fileID: 4269929954294112786, guid: dd8bcf26da92951478e94951da972d73,
+        type: 3}
+      _price: 750
+    - isBuy: 0
+      _platformName: Gravy
+      _platformSpeed: 7
+      _platform: {fileID: 4269929954294112786, guid: 9b535b6aacb5c8f41be41c2c3e72e558,
+        type: 3}
+      _price: 1000
+    - isBuy: 0
+      _platformName: Cloud
+      _platformSpeed: 8
+      _platform: {fileID: 3859861239820470313, guid: 87accb940869ba24fb1f2e7190b36a25,
+        type: 3}
+      _price: 1250
+    - isBuy: 0
+      _platformName: Rocket
+      _platformSpeed: 9
+      _platform: {fileID: 6727598797688425859, guid: af3f41c65eb9ee842895a23d54ec0306,
+        type: 3}
+      _price: 1500
